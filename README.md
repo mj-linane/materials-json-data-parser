@@ -16,7 +16,7 @@ To install and run the project, you will need to have the following installed on
 Once you have Node.js and npm installed, you can clone the repository and install the project dependencies:
 
 ```bash
-git clone https://github.com/user/google-classroom-assignment-extractor.git
+git clone https://github.com/mj-linane/google-classroom-assignment-extractor.git
 cd google-classroom-assignment-extractor
 npm install
 ```
