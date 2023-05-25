@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "name": "Example Course",
+  "section": "Example Date",
+  "room": "Example Room",
+  "calendarUrl": "Example Calendar Link",
+  "posts": [
+    {
+      "creator": {
+        "name": {
+          "fullName": "Sample Instructor"
+        },
+        "emailAddress": "instructor@example.com"
+      },
+      "creationTime": "2023-05-01T10:00:00.000Z",
+      "updateTime": "2023-05-01T10:00:00.000Z",
+      "publicationTime": "2023-05-01T10:00:00.000Z",
+      "state": "PUBLISHED",
+      "assigneeMode": "ALL_STUDENTS",
+      "topics": [
+        {
+          "name": "Example Topic"
+        }
+      ],
+      "courseWork": {
+        "title": "Example Assignment",
+        "description": "This is a sample assignment for demonstration purposes.",
+        "dueTime": "2023-05-02T10:00:00Z",
+        "maxPoints": 100.0,
+        "workType": "ASSIGNMENT",
+        "submissions": []
+      }
+    }
+  ]
+}
